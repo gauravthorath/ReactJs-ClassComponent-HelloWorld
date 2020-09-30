@@ -7,6 +7,6 @@ import React  from 'react'
 // }
 
 //ES6 arrow funtion syntax
-export const Greet = () => <h1> Hello Comp!!</h1>
+export const Greet = () => <h1> Hello from functional Component</h1>
 
 export default Greet;
